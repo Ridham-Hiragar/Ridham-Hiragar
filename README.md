@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ridham-Hiragar
+- 👋 Hi, I’m @Reed 
 - 👀 I’m interested in python, django web framwork 
 - 🌱 I’m currently learning python and django framwork 
 - 💞️ I’m looking to collaborate on ...
